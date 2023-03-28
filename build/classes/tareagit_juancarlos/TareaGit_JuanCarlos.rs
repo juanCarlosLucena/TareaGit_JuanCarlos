@@ -1,0 +1,2 @@
+tareagit_juancarlos.Tabla
+tareagit_juancarlos.TareaGit_JuanCarlos
