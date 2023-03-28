@@ -35,4 +35,8 @@ public class Tabla{
                            
      }
             
+     public int metodoNuevo(int numeroNuevo){
+         return this.numero*numeroNuevo;
+     }
+     
 }
